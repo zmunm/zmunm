@@ -1,6 +1,8 @@
 <!--
 I don’t know why you came here, but thank you for your interest.
 
+이제는 정말로 오픈소스를 해야지....
+
 **zmunm/zmunm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
