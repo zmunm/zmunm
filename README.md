@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ![Travis](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=zmunm&show_icons=true&theme=gruvbox&count_private=true&hide=stars,prs" alt="zmunm" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zmunm&show_icons=true&theme=radical&count_private=true&hide=stars,prs" alt="zmunm" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmunm&layout=compact" alt="zmunm" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmunm&theme=radical&layout=compact" alt="zmunm" />
 </a>
